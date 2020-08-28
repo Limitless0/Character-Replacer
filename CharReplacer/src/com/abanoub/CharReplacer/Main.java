@@ -1,6 +1,6 @@
 package com.abanoub.CharReplacer;
 
-import static com.abanoub.CharReplacer.charReplace.openFile;
+import static com.abanoub.CharReplacer.CharReplace.openFile;
 
 public class Main {
 
@@ -14,4 +14,3 @@ public class Main {
 
 
 }
-
